@@ -11,9 +11,7 @@ const onClick=(type)=>{
       
       break;
       case "decrement":
-      setCounter(counter-1)
-      
-      break;
+      setCounter(counter-1) 
       case "double":
       setCounter(counter*2)
       
